@@ -1,5 +1,5 @@
 # BlockchainBuilder
-
+A project that teaches how to create a blockchain using substrate
 ## prod
 
 ## Command to run bootnode
