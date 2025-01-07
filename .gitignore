@@ -2,3 +2,4 @@ artifacts
 .yarn
 node_modules
 .deps
+.env
