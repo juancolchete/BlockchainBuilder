@@ -1,5 +1,5 @@
 # BlockchainBuilder
-A project that teaches how to create a blockchain using substrate
+A project that teaches how to create a blockchain using substrate whole ledger is EVM compatible.
 ## prod
 
 ## Command to run bootnode
